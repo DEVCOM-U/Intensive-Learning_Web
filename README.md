@@ -45,8 +45,8 @@ Untuk diskusi dan update terbaru, silakan bergabung di grup WhatsApp:
 Ingin berkontribusi dalam repository ini? Jangan ragu untuk membuat pull request atau menambahkan sumber belajar bermanfaat lainnya!
 
 ## 🎯 Tujuan Akhir
-✅ Memahami dasar-dasar HTML, CSS, dan JavaScript
-✅ Mampu membuat website statis yang responsif
+✅ Memahami dasar-dasar HTML, CSS, dan JavaScript  
+✅ Mampu membuat website statis yang responsif  
 ✅ Menjadi langkah awal untuk masuk ke dunia Fullstack Web Development
 
 Terima kasih telah bergabung, dan semoga belajar bersama ini bermanfaat! 🚀
