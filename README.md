@@ -23,7 +23,7 @@ Selamat datang di repository **Intensive Learning Web Development**! Repository 
 1. **Fork** repository ini ke akun GitHub masing-masing.
 2. Clone repository hasil fork ke lokal:
    ```bash
-   git clone https://github.com/username/Intensive-Learning-WebDev.git
+   git clone https://github.com/DEVCOM-U/Intensive-Learning_Web.git
    ```
 3. Masuk ke folder `assignments/` sesuai materi (HTML, CSS, atau JavaScript).
 4. Buat folder dengan format **Nama_Kamu**, contoh: `assignments/html/Jon_Doe/`.
